@@ -6,6 +6,6 @@ This project requires installed python3 and requests package
 
 ```
 Install pipenv
-pipenv run "python find_meteors.py"
+pipenv run "meteors/python find_meteors.py"
 
 ```
